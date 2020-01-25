@@ -1,0 +1,160 @@
+{
+	"texture": "ghast.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -8, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-8, 0, -8, 16, 16, 16], "textureOffset": [0, 0]}
+			],
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [5.00701, 15.99999, 4.993, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [4.9738, -2.99995, 5.02616, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-7.99295, 16.02268, 4.97031, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-8.02616, -2.97727, 5.00347, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-7.9703, 15.99995, -8.02965, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-7.98179, 19.01149, -1.42967, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-8.02778, -7.28843, -1.38377, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [5.07218, -7.3113, -1.36091, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [5.11799, 18.88862, -1.40663, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-10.98179, 16.01672, -1.43491, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-11.01833, -4.88321, -1.39843, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [8.08161, -4.91655, -1.3651, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [8.11816, 15.98339, -1.40157, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-11.01833, -4.88321, -1.39843, 3, 5, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-13.98178, 13.02196, -1.44014, 3, 6, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-14.00905, -2.57799, -1.41292, 3, 6, 3], "textureOffset": [51, 0]},
+						{"coordinates": [11.19087, -2.62198, -1.36893, 3, 6, 3], "textureOffset": [51, 0]},
+						{"coordinates": [11.21745, 12.57798, -1.39546, 3, 6, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-8.00334, -2.89999, -7.99667, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [5.02966, 15.97726, -8.00696, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [5.02965, 12.97202, -11.00172, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [4.99654, 13.00524, 7.99822, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-11.00341, 13.03317, 7.9703, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-10.99818, 13.02792, 4.97031, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [5.00177, 13, 4.99823, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [5.00674, -0.12794, -10.97885, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [4.97364, -0.09472, 8.02109, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-8.02615, 0.02797, 7.99822, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-10.97031, 12.99995, -11.02964, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-11.02091, 0.02796, 4.993, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-10.99303, -0.00001, -11.00695, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [8.02441, 12.97203, -7.99649, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [8.00151, -0.12793, -7.97363, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [7.97363, -0.09995, 8.02632, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-10.97553, 13.00519, -8.02965, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-11.02614, 0.03321, 7.99299, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-10.99826, 0.00523, -8.00696, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [8.02964, 12.96679, -10.99648, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [7.99653, 13.00001, 8.00346, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-8.00342, 13.02793, 7.97553, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [8.00176, 12.99476, 5.00347, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [8.00673, -0.13317, -10.97362, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [7.97886, -0.1052, 5.02633, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-7.97031, 12.99471, -11.02441, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [-7.99304, -0.00525, -11.00172, 3, 3, 3], "textureOffset": [51, 0]},
+						{"coordinates": [4.99645, -3.02268, -7.9738, 3, 3, 3], "textureOffset": [51, 0]}
+					]
+				}
+			]
+		},
+		{
+			"part": "tentacle1",
+			"id": "tentacle1",
+			"invertAxis": "xy",
+			"translate": [-3.8, -1, 5],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-4.8, -8, -6, 2, 9, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle2",
+			"id": "tentacle2",
+			"invertAxis": "xy",
+			"translate": [1.3, -1, 5],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [0.3, -10, -6, 2, 11, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle3",
+			"id": "tentacle3",
+			"invertAxis": "xy",
+			"translate": [6.3, -1, 5],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [5.3, -7, -6, 2, 8, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle4",
+			"id": "tentacle4",
+			"invertAxis": "xy",
+			"translate": [-6.3, -1, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-7.3, -8, -1, 2, 9, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle5",
+			"id": "tentacle5",
+			"invertAxis": "xy",
+			"translate": [-1.3, -1, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-2.3, -12, -1, 2, 13, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle6",
+			"id": "tentacle6",
+			"invertAxis": "xy",
+			"translate": [3.8, -1, 0],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [2.8, -10, -1, 2, 11, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle7",
+			"id": "tentacle7",
+			"invertAxis": "xy",
+			"translate": [-3.8, -1, -5],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [-4.8, -11, 4, 2, 12, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle8",
+			"id": "tentacle8",
+			"invertAxis": "xy",
+			"translate": [1.3, -1, -5],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [0.3, -11, 4, 2, 12, 2], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "tentacle9",
+			"id": "tentacle9",
+			"invertAxis": "xy",
+			"translate": [6.3, -1, -5],
+			"mirrorTexture": "u",
+			"boxes": [
+				{"coordinates": [5.3, -12, 4, 2, 13, 2], "textureOffset": [0, 0]}
+			]
+		}
+	]
+}
